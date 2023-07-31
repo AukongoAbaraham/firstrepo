@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CALC\CALC\obj\Debug\netcoreapp3.1\CALC.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CALC\CALC\obj\Debug\netcoreapp3.1\CALC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CALC\CALC\obj\Debug\netcoreapp3.1\CALC.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CALC\CALC\obj\Debug\netcoreapp3.1\CALC.AssemblyInfo.cs
+C:\Users\User\source\repos\CALC\CALC\obj\Debug\netcoreapp3.1\CALC.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CALC\CALC\bin\Debug\netcoreapp3.1\CALC.exe
+C:\Users\User\source\repos\CALC\CALC\bin\Debug\netcoreapp3.1\CALC.deps.json
+C:\Users\User\source\repos\CALC\CALC\bin\Debug\netcoreapp3.1\CALC.runtimeconfig.json
+C:\Users\User\source\repos\CALC\CALC\bin\Debug\netcoreapp3.1\CALC.runtimeconfig.dev.json
+C:\Users\User\source\repos\CALC\CALC\bin\Debug\netcoreapp3.1\CALC.dll
+C:\Users\User\source\repos\CALC\CALC\bin\Debug\netcoreapp3.1\CALC.pdb
+C:\Users\User\source\repos\CALC\CALC\obj\Debug\netcoreapp3.1\CALC.dll
+C:\Users\User\source\repos\CALC\CALC\obj\Debug\netcoreapp3.1\CALC.pdb
+C:\Users\User\source\repos\CALC\CALC\obj\Debug\netcoreapp3.1\CALC.genruntimeconfig.cache
